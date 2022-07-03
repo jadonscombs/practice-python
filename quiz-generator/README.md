@@ -23,3 +23,6 @@ This project assumes you have Python 3.X installed. There are two core files tha
 # Future Work
 Current work planned for future iterations include:
 - Generate single folder to hold the two folders for (quiz set) and (answer keys)
+- Implement command-line options for `quiz_generator_driver.py`:
+    - Specify # of tests
+    - Allow deletion of test/answer set
